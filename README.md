@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RuchikaBhutada
+- 👋 Hi, I’m @RuchikaBhutada, Graduate student at University of North Carolina Charlotte
 - 👀 I’m interested in Salesforce, Tableau roles.
 - 🌱 I’m currently learning latest technologies on Salesforce CPQ, Python DSA
 - 📫 How to reach me ruchikabhutada24@gmail.com
